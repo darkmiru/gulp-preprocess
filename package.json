@@ -12,7 +12,7 @@
   "dependencies": {
     "lodash": "^4.17.15",
     "map-stream": "^0.1.x",
-    "preprocess": "https://github.com/darkmiru/preprocess.git"
+    "preprocess": "git+https://github.com/darkmiru/preprocess.git"
   },
   "devDependencies": {
     "eslint": "^6.3.0",
